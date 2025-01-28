@@ -816,3 +816,31 @@
   location = {Atlanta, GA, USA}
 }
 ```
+
+* [60] [Navigating the Landscape of Concept‑Supported XAI: Challenges, Innovations, and Future Directions](https://link.springer.com/article/10.1007/s11042-023-17666-y)
+```bibtex
+@article{shamskhoozani2024,
+  author = {Shams Khoozani, Zahra and Sabri, Aznul Qalid Md and Seng, Woo Chaw and Seera, Manjeevan and Eg, Kah Yee},
+  title = {Navigating the Landscape of Concept-Supported XAI: Challenges, Innovations, and Future Directions},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {83},
+  number = {25},
+  pages = {67147--67197},
+  doi = {10.1007/s11042-023-17666-y},
+  url = {https://doi.org/10.1007/s11042-023-17666-y},
+  issn = {1573-7721}
+}
+```
+
+* [61] [Hierarchical Fuzzy Model-Agnostic Explanation: Framework, Algorithms and Interface for XAI](https://ieeexplore.ieee.org/document/10731553)
+```bibtex
+@article{yin2024,
+  author = {Yin, Faliang and Lam, Hak-Keung and Watson, David},
+  title = {Hierarchical Fuzzy Model-Agnostic Explanation: Framework, Algorithms, and Interface for XAI},
+  journal = {IEEE Transactions on Fuzzy Systems},
+  year = {2024},
+  pages = {1--10},
+  doi = {10.1109/TFUZZ.2024.3485212}
+}
+```
