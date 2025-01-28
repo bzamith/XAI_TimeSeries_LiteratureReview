@@ -309,84 +309,237 @@
 }
 ```
 
-* [] []()
+* [25] [Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models](https://doi.org/10.1145/3627673.3679844)
 ```bibtex
-
+@inproceedings{chung2024,
+  author = {Chung, Hyunseung and Jo, Sumin and Kwon, Yeonsu and Choi, Edward},
+  title = {Time is Not Enough: Time-Frequency Based Explanation for Time-Series Black-Box Models},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM '24)},
+  year = {2024},
+  pages = {394--403},
+  numpages = {10},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  isbn = {9798400704369},
+  doi = {10.1145/3627673.3679844},
+  url = {https://doi.org/10.1145/3627673.3679844},
+  location = {Boise, ID, USA},
+}
 ```
 
-* [] []()
+* [26] [Translating Image XAI to Multivariate Time Series](https://ieeexplore.ieee.org/document/10439172)
 ```bibtex
-
+@article{tronchin2024,
+  author = {Tronchin, Lorenzo and Cordelli, Ermanno and Ricciardi Celsi, Lorenzo and Maccagnola, Daniele and Natale, Massimo and Soda, Paolo and Sicilia, Rosa},
+  title = {Translating Image XAI to Multivariate Time Series},
+  journal = {IEEE Access},
+  year = {2024},
+  volume = {12},
+  pages = {27484--27500},
+  doi = {10.1109/ACCESS.2024.3366994}
+}
 ```
 
-* [] []()
+* [27] [Explaining Time Series Classifiers through Meaningful Perturbation and Optimisation](https://www.sciencedirect.com/science/article/pii/S0020025523009192)
 ```bibtex
-
+@article{meng2023explanation,
+  title = {Explaining Time Series Classifiers Through Meaningful Perturbation and Optimisation},
+  author = {Meng, Han and Wagner, Christian and Triguero, Isaac},
+  journal = {Information Sciences},
+  volume = {645},
+  pages = {119334},
+  year = {2023},
+  issn = {0020-0255},
+  doi = {10.1016/j.ins.2023.119334},
+  url = {https://www.sciencedirect.com/science/article/pii/S0020025523009192},
+}
 ```
 
-* [] []()
+* [28] [Explainable AI for Time Series via Virtual Inspection Layers](https://www.sciencedirect.com/science/article/pii/S0031320324000608)
 ```bibtex
-
+@article{vielhaben2024,
+  title = {Explainable AI for Time Series via Virtual Inspection Layers},
+  author = {Vielhaben, Johanna and Lapuschkin, Sebastian and Montavon, Gr{\'e}goire and Samek, Wojciech},
+  journal = {Pattern Recognition},
+  volume = {150},
+  pages = {110309},
+  year = {2024},
+  issn = {0031-3203},
+  doi = {10.1016/j.patcog.2024.110309},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320324000608}
+}
 ```
 
-* [] []()
+* [29] [LIMESegment: Meaningful, Realistic Time Series Explanations](https://proceedings.mlr.press/v151/sivill22a/sivill22a.pdf)
 ```bibtex
-
+@inproceedings{sivill2022,
+  title = {LIMESegment: Meaningful, Realistic Time Series Explanations},
+  author = {Sivill, Torty and Flach, Peter},
+  booktitle = {Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)},
+  pages = {3418--3433},
+  year = {2022},
+  editor = {Camps-Valls, Gustau and Ruiz, Francisco J. R. and Valera, Isabel},
+  volume = {151},
+  series = {Proceedings of Machine Learning Research},
+  month = {28--30 Mar},
+  publisher = {PMLR},
+  url = {https://proceedings.mlr.press/v151/sivill22a/sivill22a.pdf}
+}
 ```
 
-* [] []()
+* [30] [Class-Specific Explainability for Deep Time Series Classifiers](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a101/1KpCofcZVh6)
 ```bibtex
-
+@inproceedings{doddaiah2022,
+  author = {Doddaiah, Ramesh and Parvatharaju, Prathyush and Rundensteiner, Elke and Hartvigsen, Thomas},
+  title = {Class-Specific Explainability for Deep Time Series Classifiers},
+  booktitle = {Proceedings of the 2022 IEEE International Conference on Data Mining (ICDM)},
+  year = {2022},
+  pages = {101--110},
+  doi = {10.1109/ICDM54844.2022.00020}
+}
 ```
 
-* [] []()
+* [31] [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)
 ```bibtex
-
+@inproceedings{ismail2020,
+  author = {Ismail, Aya Abdelsalam and Gunady, Mohamed and Corrada Bravo, H\'{e}ctor and Feizi, Soheil},
+  title = {Benchmarking Deep Learning Interpretability in Time Series Predictions},
+  booktitle = {Proceedings of the 34th International Conference on Neural Information Processing Systems (NeurIPS 2020)},
+  year = {2020},
+  pages = {540},
+  numpages = {12},
+  publisher = {Curran Associates Inc.},
+  address = {Red Hook, NY, USA},
+  location = {Vancouver, BC, Canada},
+  series = {NeurIPS '20},
+  isbn = {9781713829546}
+}
 ```
 
-* [] []()
+* [32] [What went wrong and when? Instance-wise Feature Importance for Time-Series Black-Box Models](https://proceedings.neurips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf)
 ```bibtex
-
+@inproceedings{tonekaboni2020,
+  author = {Tonekaboni, Sana and Joshi, Shalmali and Campbell, Kieran R. and Duvenaud, David and Goldenberg, Anna},
+  title = {What Went Wrong and When? Instance-Wise Feature Importance for Time-Series Black-Box Models},
+  booktitle = {Proceedings of the 34th International Conference on Neural Information Processing Systems (NeurIPS 2020)},
+  year = {2020},
+  pages = {68},
+  numpages = {11},
+  publisher = {Curran Associates Inc.},
+  address = {Red Hook, NY, USA},
+  location = {Vancouver, BC, Canada},
+  series = {NeurIPS '20},
+  isbn = {9781713829546}
+}
 ```
 
-* [] []()
+* [33] [Agnostic Local Explanation for Time Series Classification](https://ieeexplore.ieee.org/document/8995349)
 ```bibtex
-
+@inproceedings{guilleme2019,
+  author = {Guillemé, Maël and Masson, Véronique and Rozé, Laurence and Termier, Alexandre},
+  title = {Agnostic Local Explanation for Time Series Classification},
+  booktitle = {2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)},
+  year = {2019},
+  pages = {432--439},
+  doi = {10.1109/ICTAI.2019.00067}
+}
 ```
 
-* [] []()
+* [34] [timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers](https://arxiv.org/abs/2007.07606)
 ```bibtex
-
+@misc{mujkanovic2023,
+  title = {timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers},
+  author = {Mujkanovic, Felix and Doskoč, Vanja and Schirneck, Martin and Schäfer, Patrick and Friedrich, Tobias},
+  year = {2023},
+  eprint = {2007.07606},
+  url = {https://arxiv.org/abs/2007.07606}
+}
 ```
 
-* [] []()
+* [35] [TSXplain: Demystification of DNN Decisions for Time-Series using Natural Language and Statistical Features](https://link.springer.com/chapter/10.1007/978-3-030-30493-5_43)
 ```bibtex
-
+@inproceedings{munir2019,
+  author = {Munir, Mohsin and Siddiqui, Shoaib Ahmed and Küsters, Ferdinand and Mercier, Dominique and Dengel, Andreas and Ahmed, Sheraz},
+  editor = {Tetko, Igor V. and Kůrková, Věra and Karpov, Pavel and Theis, Fabian},
+  title = {TSXplain: Demystification of DNN Decisions for Time-Series Using Natural Language and Statistical Features},
+  booktitle = {Artificial Neural Networks and Machine Learning -- ICANN 2019: Workshop and Special Sessions},
+  year = {2019},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  pages = {426--439},
+  isbn = {978-3-030-30493-5}
+}
 ```
 
-* [] []()
+* [36] [Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
 ```bibtex
-
+@inproceedings{refoyo2024,
+  author = {Refoyo, Mario and Luengo, David},
+  editor = {Longo, Luca and Lapuschkin, Sebastian and Seifert, Christin},
+  title = {Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems},
+  booktitle = {Explainable Artificial Intelligence},
+  year = {2024},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  pages = {3--17},
+  isbn = {978-3-031-63800-8}
+}
 ```
 
-* [] []()
+* [37] [CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps](https://ieeexplore.ieee.org/document/10386229)
 ```bibtex
-
+@inproceedings{li2023,
+   author = {Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+   title = {CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps},
+   booktitle = {Proceedings of the 2023 IEEE International Conference on Big Data (BigData)},
+   year = {2023},
+   pages = {718--727},
+   doi = {10.1109/BigData59044.2023.10386229}
+}
 ```
 
-* [] []()
+* [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x)
 ```bibtex
-
+@article{wang2024
+  author = {Wang, Zhendong and Samsten, Isak and Miliou, Ioanna and Mochaourab, Rami and Papapetrou, Panagiotis},
+  title = {Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification},
+  journal = {Machine Learning},
+  year = {2024},
+  volume = {113},
+  number = {7},
+  pages = {4639--4669},
+  doi = {10.1007/s10994-023-06502-x},
+  url = {https://doi.org/10.1007/s10994-023-06502-x},
+  isbn = {1573-0565}
+}
 ```
 
-* [] []()
+* [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)
 ```bibtex
-
+@inproceedings{li2023,
+  author = {Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  title = {Attention-Based Counterfactual Explanation for Multivariate Time Series},
+  booktitle = {Big Data Analytics and Knowledge Discovery: 25th International Conference, DaWaK 2023, Penang, Malaysia, August 28–30, 2023, Proceedings},
+  year = {2023},
+  pages = {287--293},
+  publisher = {Springer-Verlag},
+  address = {Berlin, Heidelberg},
+  isbn = {978-3-031-39830-8},
+  doi = {10.1007/978-3-031-39831-5_26},
+  url = {https://doi.org/10.1007/978-3-031-39831-5_26},
+  location = {Penang, Malaysia}
+}
 ```
 
-* [] []()
+* [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462)
 ```bibtex
-
+@misc{bahri2022,
+  title = {Shapelet-Based Counterfactual Explanations for Multivariate Time Series},
+  author = {Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  year = {2022},
+  eprint = {2208.10462},
+  url = {https://arxiv.org/abs/2208.10462}
+}
 ```
 
 * [] []()
