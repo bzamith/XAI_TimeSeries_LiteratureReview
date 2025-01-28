@@ -1,5 +1,11 @@
 # Literature Review Repository for XAI applied to Time Series
 
+The following section presents a complete list of references organized in chronological order.
+For specific categories, please refer to the corresponding files listed below. Note that some references are not assigned to specific categories.
+* [XAI Systematic Review and Surveys](https://github.com/bzamith/XAI_TimeSeries_LiteratureReview/blob/main/categorized/XAISystematicReview.md)
+
+## Complete References List
+
 * [1] [Optimal Robust Simplifications for Explaining Time Series Classifications](https://ceur-ws.org/Vol-3761/paper2.pdf)
 ```bibtex
 @inproceedings{telle2024,
@@ -842,5 +848,107 @@
   year = {2024},
   pages = {1--10},
   doi = {10.1109/TFUZZ.2024.3485212}
+}
+```
+
+* [62] [A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent developments and future trends](https://www.sciencedirect.com/science/article/pii/S277266222300070X)
+```bibtex
+@article{saranya2023xai,
+  title = {A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent Developments and Future Trends},
+  author = {Saranya, A. and Subhashini, R.},
+  journal = {Decision Analytics Journal},
+  year = {2023},
+  volume = {7},
+  pages = {100230},
+  issn = {2772-6622},
+  doi = {10.1016/j.dajour.2023.100230},
+  url = {https://www.sciencedirect.com/science/article/pii/S277266222300070X}
+}
+```
+
+* [63] [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/10.1145/3583558)
+```bibtex
+@article{nauta2023,
+  author = {Nauta, Meike and Trienes, Jan and Pathak, Shreyasi and Nguyen, Elisa and Peters, Michelle and Schmitt, Yasmin and Schl{\"o}tterer, J{\"o}rg and van Keulen, Maurice and Seifert, Christin},
+  title = {From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI},
+  journal = {ACM Computing Surveys (ACM Comput. Surv.)},
+  year = {2023},
+  volume = {55},
+  number = {13s},
+  articleno = {295},
+  pages = {295:1--295:42},
+  month = {July},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {0360-0300},
+  doi = {10.1145/3583558},
+  url = {https://doi.org/10.1145/3583558}
+}
+```
+
+* [64] [Explainable Artificial Intelligence: a Systematic Review](https://www.semanticscholar.org/paper/Explainable-Artificial-Intelligence%3A-a-Systematic-Vilone-Longo/1fb5cd122affeb0385e2a087d14be4bac103460e)
+```bibtex
+@article{vilone2020,
+  title = {Explainable Artificial Intelligence: A Systematic Review},
+  author = {Vilone, Giulia and Longo, Luca},
+  journal = {arXiv},
+  year = {2020},
+  volume = {abs/2006.00093},
+  url = {https://arxiv.org/abs/2006.00093}
+}
+```
+
+* [65] [Explainable Artificial Intelligence (XAI): A Systematic Literature Review on Taxonomies and Applications in Finance](https://ieeexplore.ieee.org/document/10373833)
+```bibtex
+@article{martins2024,
+  author = {Martins, Tiago and de Almeida, Ana Maria and Cardoso, Elsa and Nunes, Luís},
+  title = {Explainable Artificial Intelligence (XAI): A Systematic Literature Review on Taxonomies and Applications in Finance},
+  journal = {IEEE Access},
+  year = {2024},
+  volume = {12},
+  pages = {618--629},
+  keywords = {Artificial intelligence, Surveys, Systematics, Finance, Bibliographies, Taxonomy, Predictive models, Financial management, Machine learning, Systematic literature review, XAI, Artificial intelligence, Financial applications, Explainable machine learning},
+  doi = {10.1109/ACCESS.2023.3347028}
+}
+```
+
+* [66] [XAI Unveiled: Revealing the Potential of Explainable AI in Medicine: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/10787012)
+```bibtex
+@article{scarpato2024,
+  author = {Scarpato, Noemi and Ferroni, Patrizia and Guadagni, Fiorella},
+  title = {XAI Unveiled: Revealing the Potential of Explainable AI in Medicine: A Systematic Review},
+  journal = {IEEE Access},
+  year = {2024},
+  volume = {12},
+  pages = {191498--191516},
+  doi = {10.1109/ACCESS.2024.3514197}
+}
+```
+
+* [67] [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590)
+```bibtex
+@article{adadi2018xai,
+  author = {Adadi, Amina and Berrada, Mohammed},
+  title = {Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)},
+  journal = {IEEE Access},
+  year = {2018},
+  volume = {6},
+  pages = {52138--52160},
+  doi = {10.1109/ACCESS.2018.2870052}
+}
+```
+
+* [68] [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
+```bibtex
+@article{barredoarrieta2020,
+  title = {Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges Toward Responsible AI},
+  author = {Barredo Arrieta, Alejandro and Díaz-Rodríguez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garcia, Salvador and Gil-Lopez, Sergio and Molina, Daniel and Benjamins, Richard and Chatila, Raja and Herrera, Francisco},
+  journal = {Information Fusion},
+  year = {2020},
+  volume = {58},
+  pages = {82--115},
+  issn = {1566-2535},
+  doi = {10.1016/j.inffus.2019.12.012},
+  url = {https://www.sciencedirect.com/science/article/pii/S1566253519308103}
 }
 ```
