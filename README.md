@@ -797,3 +797,20 @@
   url = {https://www.sciencedirect.com/science/article/pii/S0950705123000230}
 }
 ```
+
+* [59] [AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution](https://dl.acm.org/doi/10.1145/3511808.3557247)
+```bibtex
+@inproceedings{cugny2022,
+  author = {Cugny, Robin and Aligon, Julien and Chevalier, Max and Roman Jimenez, Geoffrey and Teste, Olivier},
+  title = {AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM '22)},
+  year = {2022},
+  pages = {315--324},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3511808.3557247},
+  doi = {10.1145/3511808.3557247},
+  isbn = {9781450392365},
+  location = {Atlanta, GA, USA}
+}
+```
