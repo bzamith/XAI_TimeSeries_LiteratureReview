@@ -542,82 +542,243 @@
 }
 ```
 
-* [] []()
+* [41] [TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification](https://ieeexplore.ieee.org/document/10069160)
 ```bibtex
-
+@inproceedings{hollig2022,
+  author = {Höllig, Jacqueline and Kulbach, Cedric and Thoma, Steffen},
+  title = {TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification},
+  booktitle = {Proceedings of the 21st IEEE International Conference on Machine Learning and Applications (ICMLA 2022)},
+  year = {2022},
+  pages = {29--36},
+  doi = {10.1109/ICMLA55696.2022.00013}
+}
 ```
 
-* [] []()
+* [42] [Counterfactual Explanations for Multivariate Time Series](https://ieeexplore.ieee.org/document/9462056)
 ```bibtex
-
+@inproceedings{ates2021,
+  author = {Ates, Emre and Aksar, Burak and Leung, Vitus J. and Coskun, Ayse K.},
+  title = {Counterfactual Explanations for Multivariate Time Series},
+  booktitle = {Proceedings of the 2021 International Conference on Applied Artificial Intelligence (ICAPAI)},
+  year = {2021},
+  pages = {1--8},
+  doi = {10.1109/ICAPAI49758.2021.9462056}
+}
 ```
 
-* [] []()
+* [43] [Motif-Guided Time Series Counterfactual Explanations](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16)
 ```bibtex
-
+@inproceedings{li2023motif,
+  author = {Li, Peiyu and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  editor = {Rousseau, Jean-Jacques and Kapralos, Bill},
+  title = {Motif-Guided Time Series Counterfactual Explanations},
+  booktitle = {Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges},
+  year = {2023},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  pages = {203--215},
+  isbn = {978-3-031-37731-0}
+}
 ```
 
-* [] []()
+* [44] [Understanding Any Time Series Classifier with a Subsequence-based Explainer](https://doi.org/10.1145/3624480)
 ```bibtex
-
+@article{spinnato2023,
+  author = {Spinnato, Francesco and Guidotti, Riccardo and Monreale, Anna and Nanni, Mirco and Pedreschi, Dino and Giannotti, Fosca},
+  title = {Understanding Any Time Series Classifier with a Subsequence-Based Explainer},
+  journal = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  year = {2023},
+  volume = {18},
+  number = {2},
+  month = {November},
+  pages = {36:1--36:34},
+  articleno = {36},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {1556-4681},
+  doi = {10.1145/3624480},
+  url = {https://doi.org/10.1145/3624480}
+}
 ```
 
-* [] []()
+* [45] [ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models](https://doi.org/10.1007/978-3-031-70381-2_27)
 ```bibtex
-
+@inproceedings{huang2024,
+  author = {Huang, Yiran and Zhou, Yexu and Zhao, Haibin and Fang, Likun and Riedel, Till and Beigl, Michael},
+  title = {ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases. Applied Data Science Track: European Conference, ECML PKDD 2024, Vilnius, Lithuania, September 9–13, 2024, Proceedings, Part X},
+  year = {2024},
+  pages = {429--446},
+  publisher = {Springer-Verlag},
+  address = {Berlin, Heidelberg},
+  isbn = {978-3-031-70380-5},
+  doi = {10.1007/978-3-031-70381-2_27},
+  url = {https://doi.org/10.1007/978-3-031-70381-2_27},
+  location = {Vilnius, Lithuania}
+}
 ```
 
-* [] []()
+* [46] [TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](http://dx.doi.org/10.1145/3447548.3467166)
 ```bibtex
-
+@inproceedings{bento2021,
+  title = {TimeSHAP: Explaining Recurrent Models through Sequence Perturbations},
+  author = {Bento, João and Saleiro, Pedro and Cruz, André F. and Figueiredo, Mário A.T. and Bizarro, Pedro},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21)},
+  year = {2021},
+  month = {August},
+  pages = {2565--2573},
+  publisher = {ACM},
+  doi = {10.1145/3447548.3467166},
+  url = {http://dx.doi.org/10.1145/3447548.3467166}
+}
 ```
 
-* [] []()
+* [47] [A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI](https://arxiv.org/abs/2307.05104)
 ```bibtex
-
+@misc{schlegel2023,
+  title = {A Deep Dive into Perturbations as an Evaluation Technique for Time Series XAI},
+  author = {Schlegel, Udo and Keim, Daniel A.},
+  year = {2023},
+  eprint = {2307.05104},
+  url = {https://arxiv.org/abs/2307.05104}
+}
 ```
 
-* [] []()
+* [48] [Evaluation of Post-hoc Interpretability Methods in Time-Series Classification](https://doi.org/10.1038/s42256-023-00620-w)
 ```bibtex
-
+@article{turbe2023,
+  author = {Turb{\'e}, Hugues and Bjelogrlic, Mina and Lovis, Christian and Mengaldo, Gianmarco},
+  title = {Evaluation of Post-Hoc Interpretability Methods in Time-Series Classification},
+  journal = {Nature Machine Intelligence},
+  year = {2023},
+  volume = {5},
+  number = {3},
+  pages = {250--260},
+  doi = {10.1038/s42256-023-00620-w},
+  url = {https://doi.org/10.1038/s42256-023-00620-w},
+  issn = {2522-5839}
+}
 ```
 
-* [] []()
+* [49] [Introducing the Attribution Stability Indicator: A Measure for Time Series XAI Attributions](https://link.springer.com/chapter/10.1007/978-3-031-74633-8_1)
 ```bibtex
-
+@inproceedings{schlegel2025,
+  author = {Schlegel, Udo and Keim, Daniel A.},
+  editor = {Meo, Rosa and Silvestri, Fabrizio},
+  title = {Introducing the Attribution Stability Indicator: A Measure for Time Series XAI Attributions},
+  booktitle = {Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+  year = {2025},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  pages = {3--18},
+  isbn = {978-3-031-74633-8}
+}
 ```
 
-* [] []()
+* [50] [Robust Explainer Recommendation for Time Series Classification](https://link.springer.com/article/10.1007/s10618-024-01045-8)
 ```bibtex
-
+@article{nguyen2024robust,
+  author = {Nguyen, Thu Trang and Le Nguyen, Thach and Ifrim, Georgiana},
+  title = {Robust Explainer Recommendation for Time Series Classification},
+  journal = {Data Mining and Knowledge Discovery},
+  year = {2024},
+  volume = {38},
+  number = {6},
+  pages = {3372--3413},
+  doi = {10.1007/s10618-024-01045-8},
+  url = {https://doi.org/10.1007/s10618-024-01045-8},
+  issn = {1573-756X}
+}
 ```
 
-* [] []()
+* [51] [Evaluating Explanation Methods for Multivariate Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-031-49896-1_11#citeas)
 ```bibtex
-
+@inproceedings{serramazza2023,
+  author = {Serramazza, Davide Italo and Nguyen, Thu Trang and Le Nguyen, Thach and Ifrim, Georgiana},
+  title = {Evaluating Explanation Methods for Multivariate Time Series Classification},
+  booktitle = {Advanced Analytics and Learning on Temporal Data},
+  year = {2023},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  pages = {159--175},
+  isbn = {978-3-031-49896-1}
+}
 ```
 
-* [] []()
+* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957)
 ```bibtex
-
+@misc{hollig2023xtsc,
+  title = {XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification},
+  author = {Höllig, Jacqueline and Thoma, Steffen and Grimm, Florian},
+  year = {2023},
+  eprint = {2310.14957},
+  url = {https://arxiv.org/abs/2310.14957}
+}
 ```
 
-* [] []()
+* [53] [Time to Focus: A Comprehensive Benchmark Using Time Series Attribution Methods](https://arxiv.org/abs/2202.03759)
 ```bibtex
-
+@misc{mercier2022,
+  title = {Time to Focus: A Comprehensive Benchmark Using Time Series Attribution Methods},
+  author = {Mercier, Dominique and Bhatt, Jwalin and Dengel, Andreas and Ahmed, Sheraz},
+  year = {2022},
+  eprint = {2202.03759},
+  url = {https://arxiv.org/abs/2202.03759}
+}
 ```
 
-* [] []()
+* [54] [Fast, Accurate and Explainable Time Series Classification through Randomization](https://link.springer.com/article/10.1007/s10618-023-00978-w)
 ```bibtex
-
+@article{cabello2024,
+  title = {Fast, Accurate and Explainable Time Series Classification Through Randomization},
+  author = {Cabello, Nestor and Naghizade, Elham and Qi, Jianzhong and Kulik, Lars},
+  journal = {Data Mining and Knowledge Discovery},
+  year = {2024},
+  volume = {38},
+  number = {2},
+  pages = {748--811},
+  doi = {10.1007/s10618-023-00978-w},
+  url = {https://doi.org/10.1007/s10618-023-00978-w},
+  issn = {1573-756X}
+}
 ```
 
-* [] []()
+* [55] [XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification](https://link.springer.com/article/10.1007/s10618-022-00823-6)
 ```bibtex
-
+@article{fauvel2022,
+  title = {XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification},
+  author = {Fauvel, Kevin and Fromont, {\'E}lisa and Masson, V{\'e}ronique and Faverdin, Philippe and Termier, Alexandre},
+  journal = {Data Mining and Knowledge Discovery},
+  year = {2022},
+  volume = {36},
+  number = {3},
+  pages = {917--957},
+  doi = {10.1007/s10618-022-00823-6},
+  url = {https://doi.org/10.1007/s10618-022-00823-6},
+  issn = {1573-756X}
+}
 ```
 
-* [] []()
+* [56] [Explainable Failure Predictions with RNN Classifiers based on Time Series Data]()
 ```bibtex
+@misc{giurgiu2019,
+  title = {Explainable Failure Predictions with RNN Classifiers Based on Time Series Data},
+  author = {Giurgiu, Ioana and Schumann, Anika},
+  year = {2019},
+  eprint = {1901.08554},
+  url = {https://arxiv.org/abs/1901.08554}
+}
+```
 
+* [57] [MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8970899)
+```bibtex
+  @inproceedings{assaf2019,
+  author = {Assaf, Roy and Giurgiu, Ioana and Bagehorn, Frank and Schumann, Anika},
+  title = {MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks},
+  booktitle = {Proceedings of the 2019 IEEE International Conference on Data Mining (ICDM)},
+  year = {2019},
+  pages = {952--957},
+  keywords = {Explainable Machine Learning, Multivariate Time Series, Convolutional Neural Network, Deep Learning},
+  doi = {10.1109/ICDM.2019.00106}
+}
 ```
