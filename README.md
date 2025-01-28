@@ -433,15 +433,17 @@
 }
 ```
 
-* [33] [Agnostic Local Explanation for Time Series Classification](https://ieeexplore.ieee.org/document/8995349)
+* [33] [Explainable Automated Machine Learning for Credit Decisions: Enhancing Human Artificial Intelligence Collaboration in Financial Engineering](https://arxiv.org/pdf/2402.03806)
 ```bibtex
-@inproceedings{guilleme2019,
-  author = {Guillemé, Maël and Masson, Véronique and Rozé, Laurence and Termier, Alexandre},
-  title = {Agnostic Local Explanation for Time Series Classification},
-  booktitle = {2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)},
-  year = {2019},
-  pages = {432--439},
-  doi = {10.1109/ICTAI.2019.00067}
+@techreport{schmitt2024,
+  author = {Schmitt, Marc},
+  title = {Explainable Automated Machine Learning for Credit Decisions: Enhancing Human-Artificial Intelligence Collaboration in Financial Engineering},
+  year = {2024},
+  month = {February},
+  institution = {arXiv.org},
+  type = {Preprint},
+  number = {2402.03806},
+  url = {https://ideas.repec.org/p/arx/papers/2402.03806.html},
 }
 ```
 
