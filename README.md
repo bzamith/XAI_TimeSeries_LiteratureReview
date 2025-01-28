@@ -782,3 +782,18 @@
   doi = {10.1109/ICDM.2019.00106}
 }
 ```
+
+* [58] [Explainable AI (XAI): A Systematic Meta-survey of Current Challenges and Future Opportunities](https://www.sciencedirect.com/science/article/pii/S0950705123000230)
+```bibtex
+@article{saeed2023,
+  title = {Explainable AI (XAI): A Systematic Meta-Survey of Current Challenges and Future Opportunities},
+  author = {Saeed, Waddah and Omlin, Christian},
+  journal = {Knowledge-Based Systems},
+  year = {2023},
+  volume = {263},
+  pages = {110273},
+  issn = {0950-7051},
+  doi = {10.1016/j.knosys.2023.110273},
+  url = {https://www.sciencedirect.com/science/article/pii/S0950705123000230}
+}
+```
