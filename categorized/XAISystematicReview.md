@@ -1,6 +1,6 @@
 # Literature Review: XAI Systematic Reviews and Surveys
 
-* [67] [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590)
+* [67] [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590) ✅ *(Read)*
 ```bibtex
 @article{adadi2018xai,
   author = {Adadi, Amina and Berrada, Mohammed},
