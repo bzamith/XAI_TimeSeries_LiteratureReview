@@ -886,7 +886,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [64] [Explainable Artificial Intelligence: a Systematic Review](https://www.semanticscholar.org/paper/Explainable-Artificial-Intelligence%3A-a-Systematic-Vilone-Longo/1fb5cd122affeb0385e2a087d14be4bac103460e)
+* [64] [Explainable Artificial Intelligence: a Systematic Review](https://www.semanticscholar.org/paper/Explainable-Artificial-Intelligence%3A-a-Systematic-Vilone-Longo/1fb5cd122affeb0385e2a087d14be4bac103460e) ✅ *(Read)*
 ```bibtex
 @article{vilone2020,
   title = {Explainable Artificial Intelligence: A Systematic Review},
