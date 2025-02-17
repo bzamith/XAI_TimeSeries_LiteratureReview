@@ -127,3 +127,18 @@
   issn = {1573-7721}
 }
 ```
+
+* [74] [Explainable Artificial Intelligence (XAI) from a user perspective: A synthesis of prior literature and problematizing avenues for future research](https://www.sciencedirect.com/science/article/pii/S0040162522006412)
+```bibtex
+@article{haque2023,
+  author = {Haque, AKM Bahalul and Islam, A.K.M. Najmul and Mikalef, Patrick},
+  title = {Explainable Artificial Intelligence (XAI) from a User Perspective: A Synthesis of Prior Literature and Problematizing Avenues for Future Research},
+  journal = {Technological Forecasting and Social Change},
+  volume = {186},
+  pages = {122120},
+  year = {2023},
+  issn = {0040-1625},
+  doi = {10.1016/j.techfore.2022.122120},
+  url = {https://www.sciencedirect.com/science/article/pii/S0040162522006412}
+}
+```
