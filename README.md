@@ -851,7 +851,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [62] [A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent developments and future trends](https://www.sciencedirect.com/science/article/pii/S277266222300070X)
+* [62] [A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent developments and future trends](https://www.sciencedirect.com/science/article/pii/S277266222300070X) ✅ *(Read)*
 ```bibtex
 @article{saranya2023xai,
   title = {A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent Developments and Future Trends},
