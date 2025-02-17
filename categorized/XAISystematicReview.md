@@ -1,4 +1,4 @@
-# Literature Review: XAI Systematic Reviews and Surveys
+# Literature Review: Explainable AI (XAI) Systematic Reviews and Surveys
 
 * [67] [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590) ✅ *(Read)*
 ```bibtex
