@@ -25,21 +25,6 @@
 }
 ```
 
-* [68] [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
-```bibtex
-@article{barredoarrieta2020,
-  title = {Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges Toward Responsible AI},
-  author = {Barredo Arrieta, Alejandro and Díaz-Rodríguez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garcia, Salvador and Gil-Lopez, Sergio and Molina, Daniel and Benjamins, Richard and Chatila, Raja and Herrera, Francisco},
-  journal = {Information Fusion},
-  year = {2020},
-  volume = {58},
-  pages = {82--115},
-  issn = {1566-2535},
-  doi = {10.1016/j.inffus.2019.12.012},
-  url = {https://www.sciencedirect.com/science/article/pii/S1566253519308103}
-}
-```
-
 * [62] [A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent developments and future trends](https://www.sciencedirect.com/science/article/pii/S277266222300070X) ✅ *(Read)*
 ```bibtex
 @article{saranya2023xai,
@@ -52,6 +37,36 @@
   issn = {2772-6622},
   doi = {10.1016/j.dajour.2023.100230},
   url = {https://www.sciencedirect.com/science/article/pii/S277266222300070X}
+}
+```
+
+* [74] [Explainable Artificial Intelligence (XAI) from a user perspective: A synthesis of prior literature and problematizing avenues for future research](https://www.sciencedirect.com/science/article/pii/S0040162522006412) ✅ *(Read)*
+```bibtex
+@article{haque2023,
+  author = {Haque, AKM Bahalul and Islam, A.K.M. Najmul and Mikalef, Patrick},
+  title = {Explainable Artificial Intelligence (XAI) from a User Perspective: A Synthesis of Prior Literature and Problematizing Avenues for Future Research},
+  journal = {Technological Forecasting and Social Change},
+  volume = {186},
+  pages = {122120},
+  year = {2023},
+  issn = {0040-1625},
+  doi = {10.1016/j.techfore.2022.122120},
+  url = {https://www.sciencedirect.com/science/article/pii/S0040162522006412}
+}
+```
+
+* [68] [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
+```bibtex
+@article{barredoarrieta2020,
+  title = {Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges Toward Responsible AI},
+  author = {Barredo Arrieta, Alejandro and Díaz-Rodríguez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garcia, Salvador and Gil-Lopez, Sergio and Molina, Daniel and Benjamins, Richard and Chatila, Raja and Herrera, Francisco},
+  journal = {Information Fusion},
+  year = {2020},
+  volume = {58},
+  pages = {82--115},
+  issn = {1566-2535},
+  doi = {10.1016/j.inffus.2019.12.012},
+  url = {https://www.sciencedirect.com/science/article/pii/S1566253519308103}
 }
 ```
 
@@ -125,20 +140,5 @@
   doi = {10.1007/s11042-023-17666-y},
   url = {https://doi.org/10.1007/s11042-023-17666-y},
   issn = {1573-7721}
-}
-```
-
-* [74] [Explainable Artificial Intelligence (XAI) from a user perspective: A synthesis of prior literature and problematizing avenues for future research](https://www.sciencedirect.com/science/article/pii/S0040162522006412)
-```bibtex
-@article{haque2023,
-  author = {Haque, AKM Bahalul and Islam, A.K.M. Najmul and Mikalef, Patrick},
-  title = {Explainable Artificial Intelligence (XAI) from a User Perspective: A Synthesis of Prior Literature and Problematizing Avenues for Future Research},
-  journal = {Technological Forecasting and Social Change},
-  volume = {186},
-  pages = {122120},
-  year = {2023},
-  issn = {0040-1625},
-  doi = {10.1016/j.techfore.2022.122120},
-  url = {https://www.sciencedirect.com/science/article/pii/S0040162522006412}
 }
 ```
